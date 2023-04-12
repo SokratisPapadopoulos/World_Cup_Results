@@ -21,12 +21,10 @@ Load the dataset to Microsoft SQL Server.
 - ###### Step 2.
 
 Answered basic questions using the first table ‘WorldCups’ of the dataset.
-**WorldCups**
 
 - ###### Step 3.
 
 Answered basic questions using the second table ‘WorldCupMatches’ of the dataset.
-**WorldCupMatches**
 
 - ###### Step 4.
 
