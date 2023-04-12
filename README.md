@@ -1,8 +1,6 @@
 # WorldCupResults
 
-# Business-Request-from-Sales-Management
-
-- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/Business-Request-from-Sales-Management)
+- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/WorldCupResults)
 
 ## 📝 Project Task
 
