@@ -48,3 +48,4 @@ Had to create 2 calculations fields to present teams with Finals and Semifinals.
 - ###### Step 8.
 
 Final Dashboard
+![MainDashboard](https://user-images.githubusercontent.com/122797480/231509032-384a25ee-ac9a-40bc-b122-74f742b58ba0.png)
