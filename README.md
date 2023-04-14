@@ -1,6 +1,6 @@
 # WorldCupResults
 
-- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/WorldCupResults)
+- [View the complete data analysis process](https://blossom-kookaburra-40c.notion.site/Portfolio-4372eca8a1b24ed1934502ceb79007f2?p=b5bfa9bd433e497992eb2d1e6d732862&pm=c)
 
 ## 📝 Project Task
 
