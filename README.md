@@ -8,7 +8,7 @@ Inspired by the past Football World Cup of 2022, I wanted a challenge to take my
 
 I also wrote a user story to structure my project with, which was:
 
-**As a**… Data Analyst;    **I want** … to give meaningfull insights from this database by answering certain questions and visualize them through Tableau;    **So I can**… practice and demonstrate my skills.
+**As a**… Data Analyst;    **I want** … to give meaningful insights from this database by answering certain questions and visualize them through Tableau;    **So I can**… practice and demonstrate my skills.
 
 **NOTE:** I used the FIFA World Cup dataset from Kaggle which contains 2 csv files. The World Cups dataset show all information about all the World Cups in the history, while the World Cup Matches dataset shows all the results from the matches contested as part of the cups.
 
